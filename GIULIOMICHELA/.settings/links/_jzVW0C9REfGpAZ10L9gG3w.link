@@ -1,0 +1,98 @@
+{
+  "itemId" : "_jzVW0C9REfGpAZ10L9gG3w",
+  "contextList" : [ {
+    "contextName" : "PROD",
+    "repoId" : "_BI-AoC89EfGpAZ10L9gG3w",
+    "parameterList" : [ {
+      "id" : "_BJZeei89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_AdditionalParams"
+    }, {
+      "id" : "_BJZefC89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Database"
+    }, {
+      "id" : "_BJZefS89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Login"
+    }, {
+      "id" : "_BJZeeS89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Password"
+    }, {
+      "id" : "_BJZeey89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Port"
+    }, {
+      "id" : "_BJZeeC89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Server"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_dyPRsC8-EfGpAZ10L9gG3w",
+    "parameterList" : [ {
+      "id" : "_dyl3Cy8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_AdditionalParams"
+    }, {
+      "id" : "_dyl3Di8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Database"
+    }, {
+      "id" : "_dyl3Dy8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Login"
+    }, {
+      "id" : "_dyl3Ci8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Password"
+    }, {
+      "id" : "_dyl3DC8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Port"
+    }, {
+      "id" : "_dyl3DS8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Schema"
+    }, {
+      "id" : "_dyl3CS8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Server"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_BI-AoC89EfGpAZ10L9gG3w",
+    "parameterList" : [ {
+      "id" : "_BJZecy89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_AdditionalParams"
+    }, {
+      "id" : "_BJZedS89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Database"
+    }, {
+      "id" : "_BJZedi89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Login"
+    }, {
+      "id" : "_BJZeci89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Password"
+    }, {
+      "id" : "_BJZedC89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Port"
+    }, {
+      "id" : "_BJZecS89EfGpAZ10L9gG3w",
+      "name" : "MySQLSalesDB_Server"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_dyPRsC8-EfGpAZ10L9gG3w",
+    "parameterList" : [ {
+      "id" : "_dyl3Ay8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_AdditionalParams"
+    }, {
+      "id" : "_dyl3Bi8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Database"
+    }, {
+      "id" : "_dyl3By8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Login"
+    }, {
+      "id" : "_dyl3Ai8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Password"
+    }, {
+      "id" : "_dyl3BC8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Port"
+    }, {
+      "id" : "_dyl3BS8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Schema"
+    }, {
+      "id" : "_dyl3AS8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Server"
+    } ]
+  } ]
+}
