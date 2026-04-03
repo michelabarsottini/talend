@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_eF5NgC8-EfGpAZ10L9gG3w" name="SQLServerTalendDWH" id="_34-mgC89EfGpAZ10L9gG3w" label="SQLServerTalendDWH" dataPackage="_eIvGIC8-EfGpAZ10L9gG3w" ContextMode="true" ContextId="_dyPRsC8-EfGpAZ10L9gG3w" contextName="DEV" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://192.168.178.233:1433;DatabaseName=TalendDWH;" dbVersionString="MSSQL_PROP" Port="context.SQLServerTalendDWH_Port" Username="context.SQLServerTalendDWH_Login" Password="context.SQLServerTalendDWH_Password" ServerName="context.SQLServerTalendDWH_Server" DatasourceName="" FileFieldName="" SID="context.SQLServerTalendDWH_Database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="context.SQLServerTalendDWH_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="context.SQLServerTalendDWH_Schema" supportNLS="false">
+    <taggedValue xmi:id="_eF5NgS8-EfGpAZ10L9gG3w" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_eHUw4C8-EfGpAZ10L9gG3w" tag="package filter" value=""/>
+    <taggedValue xmi:id="_eHUw4S8-EfGpAZ10L9gG3w" tag="Status" value=""/>
+    <taggedValue xmi:id="_eHUw4i8-EfGpAZ10L9gG3w" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_eHUw4y8-EfGpAZ10L9gG3w" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_eHUw5C8-EfGpAZ10L9gG3w" tag="Description" value=""/>
+    <taggedValue xmi:id="_eHUw5S8-EfGpAZ10L9gG3w" tag="Author" value=""/>
+    <taggedValue xmi:id="_eHUw5i8-EfGpAZ10L9gG3w" tag="otherParameter"/>
+    <taggedValue xmi:id="_eHo58C8-EfGpAZ10L9gG3w" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_eHo58S8-EfGpAZ10L9gG3w" tag="DB ProductVersion" value="15.00.2000"/>
+    <taggedValue xmi:id="_eHo58i8-EfGpAZ10L9gG3w" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_eF5Ngi8-EfGpAZ10L9gG3w" key="CONN_PARA_KEY_USERNAME" value="context.SQLServerTalendDWH_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_eIvGIC8-EfGpAZ10L9gG3w" name="TalendDWH" dataManager="_eF5NgC8-EfGpAZ10L9gG3w">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eIvGIS8-EfGpAZ10L9gG3w" name="staging"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

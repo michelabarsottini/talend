@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_Ik2VoC84EfGpAZ10L9gG3w" name="MySQLSalesDB" id="_PsAiYC80EfGpAZ10L9gG3w" label="MySQLSalesDB" dataPackage="_BhyJQC89EfGpAZ10L9gG3w" ContextMode="true" ContextId="_BI-AoC89EfGpAZ10L9gG3w" contextName="DEV" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://192.168.178.240:3306/sales?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="context.MySQLSalesDB_Port" Username="context.MySQLSalesDB_Login" Password="context.MySQLSalesDB_Password" ServerName="context.MySQLSalesDB_Server" DatasourceName="" FileFieldName="" SID="context.MySQLSalesDB_Database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.MySQLSalesDB_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_Ik4x4C84EfGpAZ10L9gG3w" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_ImmCEC84EfGpAZ10L9gG3w" tag="package filter" value=""/>
+    <taggedValue xmi:id="_Ink5gC84EfGpAZ10L9gG3w" tag="Status" value=""/>
+    <taggedValue xmi:id="_Ink5gS84EfGpAZ10L9gG3w" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_Ink5gi84EfGpAZ10L9gG3w" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_Ink5gy84EfGpAZ10L9gG3w" tag="Description" value=""/>
+    <taggedValue xmi:id="_Ink5hC84EfGpAZ10L9gG3w" tag="Author" value=""/>
+    <taggedValue xmi:id="_Ink5hS84EfGpAZ10L9gG3w" tag="otherParameter"/>
+    <taggedValue xmi:id="_IoFP0C84EfGpAZ10L9gG3w" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_IoFP0S84EfGpAZ10L9gG3w" tag="DB ProductVersion" value="8.0.35"/>
+    <taggedValue xmi:id="_IoFP0i84EfGpAZ10L9gG3w" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_Ik4x4S84EfGpAZ10L9gG3w" key="CONN_PARA_KEY_USERNAME" value="context.MySQLSalesDB_Login"/>
+    <parameters xmi:id="_51fBYC87EfGpAZ10L9gG3w" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_BhyJQC89EfGpAZ10L9gG3w" name="sales" dataManager="_Ik2VoC84EfGpAZ10L9gG3w"/>
+</xmi:XMI>

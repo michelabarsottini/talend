@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_BJZecC89EfGpAZ10L9gG3w" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_BJZecS89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Server" prompt="MySQLSalesDB_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.178.240"/>
+    <contextParameter xmi:id="_BJZeci89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Password" prompt="MySQLSalesDB_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:wpf3MorrzZnq6u7OeCu8mpbe39l8cGKvh6yy+JhGlzqmzrUfFIwGxg=="/>
+    <contextParameter xmi:id="_BJZecy89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_AdditionalParams" prompt="MySQLSalesDB_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_BJZedC89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Port" prompt="MySQLSalesDB_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_BJZedS89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Database" prompt="MySQLSalesDB_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sales_test"/>
+    <contextParameter xmi:id="_BJZedi89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Login" prompt="MySQLSalesDB_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="talend_admin"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_BJZedy89EfGpAZ10L9gG3w" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_BJZeeC89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Server" prompt="MySQLSalesDB_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.178.240"/>
+    <contextParameter xmi:id="_BJZeeS89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Password" prompt="MySQLSalesDB_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:/BsxE97Qj3KzvWcYzH9zHcFLeYHH0p3cAk+RJUddJxWG/atbWFDK1w=="/>
+    <contextParameter xmi:id="_BJZeei89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_AdditionalParams" prompt="MySQLSalesDB_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_BJZeey89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Port" prompt="MySQLSalesDB_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_BJZefC89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Database" prompt="MySQLSalesDB_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sales"/>
+    <contextParameter xmi:id="_BJZefS89EfGpAZ10L9gG3w" comment="" name="MySQLSalesDB_Login" prompt="MySQLSalesDB_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="talend_admin"/>
+  </talendfile:ContextType>
+</xmi:XMI>

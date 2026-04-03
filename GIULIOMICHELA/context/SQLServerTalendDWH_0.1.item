@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_dyl3AC8-EfGpAZ10L9gG3w" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_dyl3AS8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Server" prompt="SQLServerTalendDWH_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.178.233"/>
+    <contextParameter xmi:id="_dyl3Ai8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Password" prompt="SQLServerTalendDWH_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:o31D+58C1kc8eISpFIJMhCLNxqF6mYkmXJQwzxpkcL4A0QJi90/nCA=="/>
+    <contextParameter xmi:id="_dyl3Ay8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_AdditionalParams" prompt="SQLServerTalendDWH_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_dyl3BC8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Port" prompt="SQLServerTalendDWH_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+    <contextParameter xmi:id="_dyl3BS8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Schema" prompt="SQLServerTalendDWH_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="staging"/>
+    <contextParameter xmi:id="_dyl3Bi8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Database" prompt="SQLServerTalendDWH_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TalendDWH_test"/>
+    <contextParameter xmi:id="_dyl3By8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Login" prompt="SQLServerTalendDWH_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="talend_admin"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_dyl3CC8-EfGpAZ10L9gG3w" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_dyl3CS8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Server" prompt="SQLServerTalendDWH_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.178.233"/>
+    <contextParameter xmi:id="_dyl3Ci8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Password" prompt="SQLServerTalendDWH_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:LbO6FjMJc1Q8paFX+gwQm+GEDoTyjDqPe1RX5WnFNdr7YO/JBno6hg=="/>
+    <contextParameter xmi:id="_dyl3Cy8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_AdditionalParams" prompt="SQLServerTalendDWH_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_dyl3DC8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Port" prompt="SQLServerTalendDWH_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+    <contextParameter xmi:id="_dyl3DS8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Schema" prompt="SQLServerTalendDWH_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="staging"/>
+    <contextParameter xmi:id="_dyl3Di8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Database" prompt="SQLServerTalendDWH_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TalendDWH"/>
+    <contextParameter xmi:id="_dyl3Dy8-EfGpAZ10L9gG3w" comment="" name="SQLServerTalendDWH_Login" prompt="SQLServerTalendDWH_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="talend_admin"/>
+  </talendfile:ContextType>
+</xmi:XMI>

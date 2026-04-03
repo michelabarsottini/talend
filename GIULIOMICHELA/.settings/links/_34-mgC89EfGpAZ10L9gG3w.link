@@ -1,0 +1,29 @@
+{
+  "itemId" : "_34-mgC89EfGpAZ10L9gG3w",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_dyPRsC8-EfGpAZ10L9gG3w",
+    "parameterList" : [ {
+      "id" : "_dyl3AS8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Server"
+    }, {
+      "id" : "_dyl3Ai8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Password"
+    }, {
+      "id" : "_dyl3Ay8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_AdditionalParams"
+    }, {
+      "id" : "_dyl3BC8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Port"
+    }, {
+      "id" : "_dyl3BS8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Schema"
+    }, {
+      "id" : "_dyl3Bi8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Database"
+    }, {
+      "id" : "_dyl3By8-EfGpAZ10L9gG3w",
+      "name" : "SQLServerTalendDWH_Login"
+    } ]
+  } ]
+}
